@@ -1,4 +1,4 @@
-Introduccion a  Angular.js cubriendo conceptos de single-page-apps , librarias relacionadas y funcionalidades angular mediante ejemplos. 
+Introduccion a  Angular.js cubriendo conceptos de single-page-apps , librerias relacionadas y funcionalidades angular mediante ejemplos. 
 
  * Screencasts on YouTube
    * [Part I](https://www.youtube.com/watch?v=TRrL5j3MIvo&feature=youtu.be)
